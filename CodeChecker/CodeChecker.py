@@ -10,6 +10,7 @@ from kivy.uix.button import Button
 from kivy.uix.textinput import TextInput
 import time
 
+
 class CodeChecker(App):
     def build(self):
         #returns a window object with all it's widgets
